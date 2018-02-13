@@ -1,0 +1,96 @@
+﻿Precompiled Pezhvak Upload Center
+
+about.php/
+change-log.txt/
+child.php/
+content.php/
+footer.php/
+form.php/
+header.php/
+index.php/
+README/
+rules.php/
+sidebar.php/
+support.php/
+work.php/
+├── upload/
+│   ├── .htaccess
+└── templates/
+│   ├── css
+│		├── style.css
+│		├── bootstrap.min.css
+│		├── bootstrap-theme.min.css
+│		├── font-awesome.css
+│		├── animate.css
+│   ├── fonts
+│		├── IRANSans
+│		├── glyph-icons
+│		├── font-awesome
+│   ├── img
+│		├── favicon.png
+│		├── sprinkles.svg
+│		├── n1.jpg
+│		├── n2.jpg
+│   ├── js
+│		├── bootstrap.min.js
+│		├── pezhvak.js
+│		├── jquery-3.3.1.min.js
+
+/*======================================================================*\
+
+
+
+
+/*======================================================================*\
+|| 1.0.0 Alpha 1 - 8:40 PM	        								    ||
+|| Wednesday, Bahman 11, 1396 AP (GMT+3:30)                             ||
+\*======================================================================*/
+\*======================================================================*/
+Version 1.0.0 Alpha 1/
+├── Start Project ;)
+
+
+/*======================================================================*\
+|| 1.0.0 Alpha 2 - 10:10 AM         								    ||
+|| Friday, Bahman 13, 1396 AP (GMT+3:30)                                ||
+\*======================================================================*/
+Version 1.0.0 Alpha 2/
+├── support php 7.1.11
+├── create Notification span
+├── insert animate.css 3.5.2
+├── add Bootstrap 3.3.7
+├── add Font Awesome 4.7.0
+├── add sidebar 1.0.0
+├── fix #upload css
+├── add page
+│   ├── footer.php
+│   ├── header.php
+
+
+/*======================================================================*\
+|| 1.0.0 Alpha 4 - 9:02 AM 												||
+|| Friday, Bahman 20, 1396 AP (GMT+3:30) 	                   		    ||
+\*======================================================================*/
+\*======================================================================*/
+Version 1.0.0 Alpha 4/
+├── Add random name
+│   ├── $random_name=true;
+├── Big Change in the core of the upload file's
+├── Add page form.php
+├── Add more format for Upload
+│   ├── zip
+│   ├── doc
+│   ├── rar
+│   ├── 7z
+│   ├── bmp
+│   ├── png
+│   ├── gif
+│   ├── jpg
+├── Add pezhvak.js
+├── Add button Back totop
+
+
+
+/*======================================================================*\
+|| 					Supported By : https://Pezhvakweb.ir                ||
+\*======================================================================*/
