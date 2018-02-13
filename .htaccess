@@ -1,0 +1,7 @@
+# Pezhvakweb.iR Htaccess Version: 1.0.1
+
+<FilesMatch ".(php|php.*|sphp|php3|php4|php5|php6|php7|phtml|cgi|pl|shtml|dhtml|html|htm|asp|aspx) $">
+Deny From All
+</FilesMatch>
+
+php_flag engine  off
